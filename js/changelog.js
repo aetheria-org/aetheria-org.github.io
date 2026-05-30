@@ -93,7 +93,7 @@ async function loadChangelogs() {
       changelogContainer.innerHTML = `
         <div class="changelog-item" style="color:var(--muted);font-size:12px;">
           Could not load changelogs — view them on
-          <a href="https://modrinth.com/mod/aetheria/changelog" target="_blank" style="color:var(--text);">Modrinth</a>.
+          <a href="https://modrinth.com/mod/aetheriamod/changelog" target="_blank" style="color:var(--text);">Modrinth</a>.
         </div>
       `;
     }
